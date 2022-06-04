@@ -66,7 +66,7 @@
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <h4 class="mb-4">
+                            <h4 class="mb-4 text-left">
                                 Informasi Pembeli:
                             </h4>
                             <div class="user-checkout text-left">
