@@ -105,7 +105,9 @@
                                     <li class="subtotal mt-3">No. Rekening <span>5032 1996 1403</span></li>
                                     <li class="subtotal mt-3">Nama Penerima <span>Shafiyyah Arta</span></li>
                                 </ul>
-                                <a href="success.html" class="proceed-btn">I ALREADY PAID</a>
+                                <router-link to="/success">
+                                    <a href="#" class="proceed-btn">I ALREADY PAID</a>
+                                </router-link>
                             </div>
                         </div>
                     </div>
